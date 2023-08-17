@@ -16,7 +16,7 @@ export default component$(() => {
             </div>
             <p class="w-[286px] lg:w-[496px] text-[12px] lg:text-[24px] text-center lg:text-start font-light">Con 2 años de experiencia, transformando ideas en soluciones con código. !Bienvenido a mi mundo de desarrollo!</p>
             <div>
-              <button type="button" class="py-2 px-4 hover:bg-blue-600 bg-blue-500 rounded-md text-white text-[12px]">CONTACT</button>
+              <a href="https://wa.me/+51984415658" type="button" class="py-2 px-4 hover:bg-blue-600 bg-blue-500 rounded-md text-white text-[12px]">CONTACT</a>
             </div>
           </div>
           <div>
